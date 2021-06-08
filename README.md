@@ -3,7 +3,7 @@
 ![Minha foto no ON](https://pbs.twimg.com/profile_images/1395791304819417092/txo-7R6__400x400.jpg "Minha foto no ON ")
 
 
-I am a astrophysicist at [Observatório Nacional](https://www.on.br)
+I am an astrophysicist at [Observatório Nacional](https://www.on.br)
 
 You can contact me at ogando@on.br
 
