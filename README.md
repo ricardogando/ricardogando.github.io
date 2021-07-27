@@ -1,6 +1,6 @@
 # Welcome
 
-![Minha foto no ON](https://pbs.twimg.com/profile_images/1395791304819417092/txo-7R6__400x400.jpg "Minha foto no ON ")
+![Minha foto no ON](https://pbs.twimg.com/profile_images/1420052238333001728/xq56CSnP_400x400.jpg "")
 
 Astrophysicist at [Observatório Nacional](https://www.on.br)
 
@@ -16,6 +16,6 @@ ogando at on.br
 
 For public engagement and random things follow me at [Twitter](https://twitter.com/rilogando), 
 
-[Brazilian CV Lattes (currently offline due to server issues)](http://lattes.cnpq.br/1794801345183675)
+<!-- [Brazilian CV Lattes (currently offline due to server issues)](http://lattes.cnpq.br/1794801345183675)
 
-PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)
+PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)-->
