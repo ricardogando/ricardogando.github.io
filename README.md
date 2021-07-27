@@ -1,6 +1,6 @@
 # Welcome
 
-![Minha foto](https://github.com/ricardogando/ricardogando.github.io/blob/master/ogandooriba.jpg "Minha foto")
+![Photo](ogandooriba.jpg) -->
 
 Astrophysicist at [Observatório Nacional](https://www.on.br)
 
