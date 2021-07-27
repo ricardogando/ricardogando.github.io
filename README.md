@@ -1,6 +1,6 @@
 # Welcome
 
-![Photo](ogandooriba.jpg) -->
+![Photo](ogandooriba.jpg)
 
 Astrophysicist at [Observatório Nacional](https://www.on.br)
 
