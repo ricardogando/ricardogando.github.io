@@ -1,6 +1,6 @@
 # Welcome
 
-![Minha foto no ON](https://pbs.twimg.com/profile_images/1420052238333001728/xq56CSnP_400x400.jpg "")
+![Minha foto](https://pbs.twimg.com/profile_images/1420052238333001728/xq56CSnP_400x400.jpg "Minha foto")
 
 Astrophysicist at [Observatório Nacional](https://www.on.br)
 
