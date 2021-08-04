@@ -14,8 +14,8 @@ ogando at on.br
 
 [publons](https://publons.com/researcher/A-1747-2010/)
 
-For public engagement and random things follow me at [Twitter](https://twitter.com/rilogando), 
+For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)
 
-<!-- [Brazilian CV Lattes (currently offline due to server issues)](http://lattes.cnpq.br/1794801345183675)
+[Brazilian CV Lattes](http://lattes.cnpq.br/1794801345183675)
 
-PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)-->
+<!-- PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)-->
