@@ -1,8 +1,5 @@
 <img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
 
-# Ricardo Ogando
-
-Astrophysicist at [Observatório Nacional](https://www.on.br)
 
 Looking at galaxy clusters... 
 
