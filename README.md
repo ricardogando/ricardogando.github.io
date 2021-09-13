@@ -1,10 +1,12 @@
-# Welcome
+<img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
 
-![Photo](ogandooriba.jpg)
+# Ricardo Ogando
 
 Astrophysicist at [Observatório Nacional](https://www.on.br)
 
-ogando at on.br
+Looking at galaxy clusters... 
+
+Get in touch: ogando at on.br
 
 [NASA ADS Publications](https://ui.adsabs.harvard.edu/search/?q=author%3A%22ogando%2C%20r%22%20property%3Arefereed&sort=date%20desc&rows=25)
 
