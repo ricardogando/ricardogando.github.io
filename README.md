@@ -13,7 +13,7 @@ Get in touch: ogando at on.br
 
 [publons](https://publons.com/researcher/A-1747-2010/)
 
-For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)
+<!-- For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)--> 
 
 [Brazilian CV Lattes](http://lattes.cnpq.br/1794801345183675)
 
