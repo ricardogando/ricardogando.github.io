@@ -17,4 +17,6 @@ Get in touch: ogando at on.br
 
 [Brazilian CV Lattes](http://lattes.cnpq.br/1794801345183675)
 
+[Public seminars](slides.html)
+
 <!-- PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)-->
