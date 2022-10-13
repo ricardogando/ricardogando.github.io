@@ -1,9 +1,13 @@
 <img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
 
 
-Looking at galaxy clusters... 
+Galaxy evolution in galaxy clusters 
+===================================
 
-Get in touch: ogando at on.br
+[Contact me](mailto:ogando@on.br)
+
+Publications
+------------
 
 [NASA ADS Publications](https://ui.adsabs.harvard.edu/search/?q=author%3A%22ogando%2C%20r%22%20property%3Arefereed&sort=date%20desc&rows=25)
 
@@ -15,8 +19,13 @@ Get in touch: ogando at on.br
 
 <!-- For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)--> 
 
+CV
+--
+
 [Brazilian CV Lattes](http://lattes.cnpq.br/1794801345183675)
+
+Outreach
+--------
 
 [Public seminars](slides.html)
 
-<!-- PS. My other page is at http://staff.on.br/ogando (currently offline due to server issues)-->
