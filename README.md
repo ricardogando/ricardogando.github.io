@@ -1,5 +1,6 @@
 <img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
 
+[Em português](README_pt.md)
 
 Galaxy evolution in galaxy clusters 
 ===================================
