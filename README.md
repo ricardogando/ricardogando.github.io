@@ -2,7 +2,7 @@
 
 [Em português](README_pt.md)
 
-Astrophysics - Data science - Science outreach
+Astrophysics - Data Science - Science Outreach
 ===================================
 
 [Contact me](mailto:ricardo.ogando@cti.gov.br)
