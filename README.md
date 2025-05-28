@@ -28,5 +28,5 @@ CV
 Outreach
 --------
 
-[Public seminars](slides.html)
+[Interviews and Public seminars](slides.html)
 
