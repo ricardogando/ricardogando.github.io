@@ -1,9 +1,10 @@
 <img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
 
-[Em português](README_pt.md)
-
-Astrophysics - Data Science - Science Outreach
+Senior Technologist
 ===================================
+
+Currently at CTI Renato Archer, Campinas, SP 
+(previously at Observatório Nacional, Rio de Janeiro, RJ)
 
 [Contact me](mailto:ricardo.ogando@cti.gov.br)
 
