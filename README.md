@@ -2,10 +2,10 @@
 
 [Em português](README_pt.md)
 
-Galaxy evolution in galaxy clusters 
+Astrophysics - Data science - Science outreach
 ===================================
 
-[Contact me](mailto:ogando@on.br)
+[Contact me](mailto:ricardo.ogando@cti.gov.br)
 
 Publications
 ------------
