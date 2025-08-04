@@ -8,26 +8,25 @@ Currently at CTI Renato Archer, Campinas, SP
 
 [Contact me](mailto:ricardo.ogando@cti.gov.br)
 
+For public engagement and random things, follow me on [Instagram](https://www.instagram.com/thespacelink/) 
+
+[LinkedIn](https://www.linkedin.com/in/ricardo-ogando/)
+
 Publications
 ------------
 
-[NASA ADS Publications](https://ui.adsabs.harvard.edu/search/?q=author%3A%22ogando%2C%20r%22%20property%3Arefereed&sort=date%20desc&rows=25)
-
-[ORCID](https://orcid.org/0000-0003-2120-1154)
-
 [Google Scholar](https://scholar.google.com/citations?user=aH3vHPwAAAAJ&hl=pt-BR)
+
+[NASA ADS Publications](https://ui.adsabs.harvard.edu/search/?q=author%3A%22ogando%2C%20r%22%20property%3Arefereed&sort=date%20desc&rows=25)
 
 [publons](https://publons.com/researcher/A-1747-2010/)
 
-<!-- For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)--> 
 
 CV
 --
 
-[Brazilian CV Lattes](http://lattes.cnpq.br/1794801345183675)
+[ORCID](https://orcid.org/0000-0003-2120-1154)
 
-Outreach
---------
+[CV Lattes (Portuguese)](http://lattes.cnpq.br/1794801345183675)
 
-[Interviews and Public seminars](slides.html)
 
