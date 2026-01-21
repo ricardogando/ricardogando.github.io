@@ -49,5 +49,5 @@ Outreach
 
 For public engagement and random things, follow me on [Instagram](https://www.instagram.com/thespacelink/) 
 
-[![YouTube Channel](https://i.ytimg.com/pl_c/PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd/studio_square_thumbnail.jpg?sqp=CMiev8sG-oaymwEICKoDEPABSFqi85f_AwYIyqGWwAY=&rs=AOn4CLDO2qgEQm1R_zLBP0I4CM0Uo6jbug)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
+[![YouTube Channel](https://i.ytimg.com/pl_c/PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd/studio_square_thumbnail.jpg?sqp=CJCbw8sG-oaymwEICKoDEPABSFqi85f_AwYIubrDywY=&rs=AOn4CLA5fYH1VekrmjgsxXXPI7w4UENDzg)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
 
