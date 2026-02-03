@@ -4,15 +4,15 @@ Astronomer (2002) and PhD in Physics (2007) from UFRJ, currently a Senior Techno
 
 Member of major sky mapping projects, such as the [Sloan Digital Sky Survey (III and IV)](https://www.sdss3.org/) and the [Dark Energy Survey](https://www.darkenergysurvey.org/). 
 
-The experience with large volumes of data, led to the creation of a scientific computing course in the postgraduate astronomy program at the National Observatory in 2013, in addition to participating in and coordinating data science hackathons. 
+The experience with large volumes of data led to the creation of a scientific computing course in the postgraduate astronomy program at the National Observatory in 2013, in addition to participating in and coordinating data science hackathons. 
 
 The main area of interest in astrophysics is the formation and evolution of galaxies and galaxy clusters. 
 
-Active in science communication with texts, videos, live streams with millions of views, interviews, science fairs and visits to schools. 
+Active in science communication with texts, videos, live streams with millions of views, interviews, science fairs, and visits to schools. 
 
 One of the organizers of the [17th International Olympiad on Astronomy and Astrophysics 2024](https://ioaa2024.on.br/). 
 
-Participated in the Portuguese narration of the innovative planetarium session, ["Tour of the Solar System"](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system), from AudioUniverse, that premiered on Planetário Rubens de Azevedo, in Fortaleza, Ceará.
+Participated in the Portuguese narration of the innovative planetarium session ["Tour of the Solar System"](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system), from AudioUniverse, that premiered on Planetário Rubens de Azevedo, in Fortaleza, Ceará.
 
 
 Senior Technologist
@@ -22,7 +22,7 @@ CTI Renato Archer, Campinas, SP
 
 [e-mail](mailto:ricardo.ogando@cti.gov.br)
 
-Phone [(19) 3746 6241](tel:+551937466241)
+Phone [+55 19 3746 6241](tel:+551937466241) (Work landline + WhatsApp)
 
 [LinkedIn](https://www.linkedin.com/in/ricardo-ogando/)
 
@@ -49,5 +49,7 @@ Outreach
 
 For public engagement and random things, follow me on [Instagram](https://www.instagram.com/thespacelink/) 
 
-[![YouTube Channel](https://i.ytimg.com/pl_c/PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd/studio_square_thumbnail.jpg?sqp=CJCbw8sG-oaymwEICKoDEPABSFqi85f_AwYIubrDywY=&rs=AOn4CLA5fYH1VekrmjgsxXXPI7w4UENDzg)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
+Check also my [YouTube Channel](https://youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd&si=Mlwiw2kRswwadbI9) for lives and interviews 
+
+[![YouTube Channel](https://i.ytimg.com/pl_c/PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd/studio_square_thumbnail.jpg?sqp=COCxiMwG-oaymwEICKoDEPABSFqi85f_AwYIubrDywY=&rs=AOn4CLDgpmViYK4EQrG7VT96XjiOJt3QAQ)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
 
