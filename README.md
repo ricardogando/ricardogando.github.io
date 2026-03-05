@@ -51,5 +51,5 @@ For public engagement and random things, follow me on [Instagram](https://www.in
 
 Check also my [YouTube Channel](https://youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd&si=Mlwiw2kRswwadbI9) for lives and interviews 
 
-[![YouTube Channel](https://i.ytimg.com/pl_c/PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd/studio_square_thumbnail.jpg?sqp=COCxiMwG-oaymwEICKoDEPABSFqi85f_AwYIubrDywY=&rs=AOn4CLDgpmViYK4EQrG7VT96XjiOJt3QAQ)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
+[![YouTube Channel](youtubeplaylist.png)](https://www.youtube.com/playlist?list=PLrjzGYpPg2CpB1bFERn6c6la5p0gpJcWd)
 
