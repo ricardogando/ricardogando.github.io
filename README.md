@@ -1,4 +1,4 @@
-<img src="Ricardo_Ogando_Wanezza_Soares-3649-Edit.jpg" width=200 align=right>
+<img src="ricardoOgando.jpeg" width=200 align=right>
 
 Astronomer (2002) and PhD in Physics (2007) from UFRJ, currently a Senior Technologist at [CTI Renato Archer](https://www.gov.br/cti/pt-br). 
 
