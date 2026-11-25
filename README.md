@@ -1,10 +1,10 @@
 <img src="ricardoOgando.jpeg" width=200 align=right>
 
-Astronomer (2002) and PhD in Physics (2007) from UFRJ, currently a Senior Technologist at [CTI Renato Archer](https://www.gov.br/cti/pt-br). 
+Astronomer (2002) and PhD in Physics (2007) from UFRJ, currently a Senior Technologist at [CTI Renato Archer](https://www.gov.br/cti/pt-br) working on IA applications, like [Space Farming](https://www.embrapa.br/tema-agricultura-espacial) and [Biodesign](https://pages.cnpem.br/spde/). 
 
 Member of major sky mapping projects, such as the [Sloan Digital Sky Survey (III and IV)](https://www.sdss3.org/) and the [Dark Energy Survey](https://www.darkenergysurvey.org/). 
 
-The experience with large volumes of data led to the creation of a scientific computing course in the postgraduate astronomy program at the National Observatory in 2013, in addition to participating in and coordinating data science hackathons. 
+The experience with large volumes of data led to the creation of a scientific computing course in the postgraduate astronomy program at the [National Observatory](https://www.gov.br/observatorio/pt-br) in 2013, in addition to participating in and coordinating [data science hackathons](https://hack4dev.org/dsth-2024/). 
 
 The main area of interest in astrophysics is the formation and evolution of galaxies and galaxy clusters. 
 
@@ -12,7 +12,7 @@ Active in science communication with texts, videos, live streams with millions o
 
 One of the organizers of the [17th International Olympiad on Astronomy and Astrophysics 2024](https://ioaa2024.on.br/). 
 
-Participated in the Portuguese narration of the innovative planetarium session ["Tour of the Solar System"](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system), from AudioUniverse, that premiered on Planetário Rubens de Azevedo, in Fortaleza, Ceará.
+Participated in the Portuguese voice-over of the innovative planetarium session ["Tour of the Solar System"](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system), from AudioUniverse, that premiered at Planetário Rubens de Azevedo, in Fortaleza, Ceará.
 
 
 Senior Technologist
@@ -42,7 +42,7 @@ CV
 
 [ORCID](https://orcid.org/0000-0003-2120-1154)
 
-[CV Lattes (Portuguese)](http://lattes.cnpq.br/1794801345183675)
+[CV Lattes (Portuguese)](https://busca-cv-lattes.cnpq.br/curriculo/1794801345183675)
 
 Outreach
 --
